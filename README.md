@@ -1,2 +1,2 @@
 # api_java_jersey
-Testando a criação de api com Java Jersey
+Testando a criação de uma api rest com Java Jersey.
